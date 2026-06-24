@@ -11,3 +11,5 @@
 
 В корпус вошли 164 письма из издания *P. L. M. Leone, Nicephori Gregorae Epistulae, Matino: Tipografia di Matino, 1982-1983: 2:17-379.*
 Данные издания были взяты из базы данных Thesaurus Linguae Graecae и находятся в репозитории в виде текстового файла.
+
+Анализ и код можно посмотреть здесь: https://colab.research.google.com/drive/1QITXlJGb4410XuipJOyKTLCdnpNJVZB8#scrollTo=RE7LkDcKuLcC
